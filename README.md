@@ -1,4 +1,4 @@
-# Startup-Profit-_Analysis
+# Startup-Profit_Analysis
 # 📊 Startup Profit Analysis
 
 An end-to-end data analysis and predictive modeling project exploring the key financial and geographic drivers behind startup profitability. This project evaluates how spending across **R&D**, **Administration**, and **Marketing** impacts overall profit across different states.
